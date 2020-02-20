@@ -1,14 +1,12 @@
 # Generic notebook to visualize VRF data
 
-requirements are 
+Rrequirements are 
 
-`
+```pandas
 pandas
-
 numpy
-
 os
-`
+```
 
 
 Data shared via box folder email invite
