@@ -5,7 +5,6 @@ Rrequirements are
 ```pandas
 pandas
 numpy
-os
 ```
 
 
